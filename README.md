@@ -1,2 +1,2 @@
 # git-example
-I am changing something.
+This is some new text.
